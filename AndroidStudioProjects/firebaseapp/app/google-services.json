@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "986183188617",
+    "firebase_url": "https://dulieu-eeecc.firebaseio.com",
+    "project_id": "dulieu-eeecc",
+    "storage_bucket": "dulieu-eeecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986183188617:android:973262e4739e01ec",
+        "android_client_info": {
+          "package_name": "com.example.canh1297.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986183188617-7uiiecmov2476rqs956808f5lsj9n6qp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.canh1297.firebaseapp",
+            "certificate_hash": "5d24c97d14a0f0b1c9fbfc5caad82e3f2bffe6fc"
+          }
+        },
+        {
+          "client_id": "986183188617-qo3g5bkl3f7r1va5jgfo993k91066883.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ntbKePsHVuEB8SD0vUq9rByvEI2PJkA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986183188617-qo3g5bkl3f7r1va5jgfo993k91066883.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
